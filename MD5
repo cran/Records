@@ -1,0 +1,10 @@
+f99acce553aea4b35adaa0df71f5ecaa *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+d96bbf76b8db05744387c252c46c97c0 *R/lower.record.times.R
+d930d1b764aa53a2799a1b94655b0c27 *R/lower.record.values.R
+20b4fc2bf6697ee6308267ccdd586fae *R/upper.record.times.R
+c4e97b4f289174357ebdf71937809dc7 *R/upper.record.values.R
+7bc3b2ce8688b2eae45d78ec6ad226aa *man/lower.record.times.Rd
+03211cb6f02ee7ba8a2eb54949e39d35 *man/lower.record.values.Rd
+fd00b064034c701a972dad022604533b *man/upper.record.times.Rd
+5f7ff881e6543d31d18642cf54630f28 *man/upper.record.values.Rd
